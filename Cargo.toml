@@ -1,0 +1,8 @@
+[package]
+name = "trespass"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sideway = "0.2"
+thiserror = "2.0"
